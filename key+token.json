@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "whatsappNumber": "083173814158",
+      "password": "1"
+    },
+    {
+      "whatsappNumber": "085768351775",
+      "password": "1"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "083173814158",
+      "token": "1"
+    },
+    {
+      "whatsappNumber": "083173814158",
+      "token": "1"
+    }
+  ]
+}
